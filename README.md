@@ -1,4 +1,8 @@
-APIx Cache, caching for PHP 5.3+   [![Build Status](https://travis-ci.org/frqnck/apix-cache.png?branch=master)](https://travis-ci.org/frqnck/apix-cache)
+APIx Cache, caching for PHP 5.3+   
+[![Run Status](https://apibeta.shippable.com/projects/56f25d0bc77dae78a8fa38d1/badge?branch=master)](https://beta.shippable.com/projects/56f25d0bc77dae78a8fa38d1)
+
+[![Coverage Badge](https://apibeta.shippable.com/projects/56f25d0bc77dae78a8fa38d1/coverageBadge?branch=master)](https://beta.shippable.com/projects/56f25d0bc77dae78a8fa38d1)
+
 ================================
 
 APIx Cache is a generic and thin cache wrapper with a simple interface to various different caching backends and emphasising cache tagging and indexing.
